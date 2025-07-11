@@ -1,0 +1,17 @@
+[
+  {
+    "x": 71.5,
+    "y": 115,
+    "z": 44.5,
+    "width": 1,
+    "id": 1,
+    "actionsByEvent": {
+      "onopenterm": [
+        {
+          "type": "walk",
+          "data": {}
+        }
+      ]
+    }
+  }
+]

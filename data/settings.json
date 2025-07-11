@@ -1,0 +1,312 @@
+[
+    {
+        "category": "Dungeons",
+        "settings": [
+            {
+                "type": 6,
+                "name": "AutoCamp",
+                "value": true
+            },
+            {
+                "type": 6,
+                "name": "CampHelper",
+                "value": true
+            },
+            {
+                "type": 1,
+                "name": "CampDelay",
+                "value": 1
+            },
+            {
+                "type": 6,
+                "name": "LeverAura",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "LeapMessage",
+                "value": true
+            },
+            {
+                "type": 6,
+                "name": "BloodPet",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "NoInteract",
+                "value": true
+            },
+            {
+                "type": 6,
+                "name": "InvincibleTimer",
+                "value": true
+            },
+            {
+                "type": 6,
+                "name": "procMessage",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "stormTimer",
+                "value": true
+            },
+            {
+                "type": 6,
+                "name": "AutoRequeue",
+                "value": false
+            },
+            {
+                "type": 4,
+                "name": "requeueTime",
+                "value": "3"
+            },
+            {
+                "type": 6,
+                "name": "termAC",
+                "value": true
+            }
+        ]
+    },
+    {
+        "category": "Boss",
+        "settings": [
+            {
+                "type": 6,
+                "name": "AutoRag",
+                "value": true
+            },
+            {
+                "type": 6,
+                "name": "RelicTriggerbot",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "DragonTimer",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "RelicLook",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "RunMid",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "AutoPhoenix",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "AutoGoldor",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "AutoP4",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "AutoCat",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "AutoRunRelic",
+                "value": false
+            }
+        ]
+    },
+    {
+        "category": "Devices",
+        "settings": [
+            {
+                "type": 6,
+                "name": "hidePlayerDevs",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "AutoArrow",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "Pre4ToggleLeap",
+                "value": true
+            },
+            {
+                "type": 4,
+                "name": "Pre4IGNLeap",
+                "value": "melonmel0dy"
+            },
+            {
+                "type": 6,
+                "name": "Pre4LeapMelody",
+                "value": true
+            },
+            {
+                "type": 6,
+                "name": "AutoPrefire",
+                "value": false
+            }
+        ]
+    },
+    {
+        "category": "Terminals",
+        "settings": [
+            {
+                "type": 6,
+                "name": "ForceP3",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "TerminalAura",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "TerminalTriggerbot",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "AutoTerm",
+                "value": false
+            },
+            {
+                "type": 1,
+                "name": "ClickDelay",
+                "value": 111
+            },
+            {
+                "type": 1,
+                "name": "FirstClickDelay",
+                "value": 407
+            },
+            {
+                "type": 1,
+                "name": "BreakThreshold",
+                "value": 500
+            },
+            {
+                "type": 6,
+                "name": "AutoMelody",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "MelodySkip",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "FirstSlotMelody",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "TerminalInvwalk",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "MelodyInvwalk",
+                "value": false
+            },
+            {
+                "type": 4,
+                "name": "WASDdelay",
+                "value": "6"
+            },
+            {
+                "type": 6,
+                "name": "melodyProgress",
+                "value": true
+            }
+        ]
+    },
+    {
+        "category": "FastLeap",
+        "settings": [
+            {
+                "type": 6,
+                "name": "FastLeap",
+                "value": true
+            },
+            {
+                "type": 6,
+                "name": "DoorOpener",
+                "value": true
+            },
+            {
+                "type": 6,
+                "name": "PositionalFastLeap",
+                "value": true
+            },
+            {
+                "type": 4,
+                "name": "S1Leap",
+                "value": "mage"
+            },
+            {
+                "type": 4,
+                "name": "S2Leap",
+                "value": "healer"
+            },
+            {
+                "type": 4,
+                "name": "S3Leap",
+                "value": "mage"
+            },
+            {
+                "type": 4,
+                "name": "S4Leap",
+                "value": "mage"
+            }
+        ]
+    },
+    {
+        "category": "Chest Looter",
+        "settings": [
+            {
+                "type": 6,
+                "name": "ChestLooter",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "useKismet",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "useChestKey",
+                "value": false
+            },
+            {
+                "type": 4,
+                "name": "rerollThreshold",
+                "value": "1000000"
+            },
+            {
+                "type": 4,
+                "name": "ChestKeyThreshold",
+                "value": "150000"
+            },
+            {
+                "type": 6,
+                "name": "looterDebug",
+                "value": false
+            }
+        ]
+    }
+]
