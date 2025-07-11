@@ -5,6 +5,5 @@
     "version": "1.0.0",
     "description": "Skyblock QOL", 
     "requires": ["Vigilance", "BloomCore", "PogData", "Amaterasu", "requestV2"]
-] 
   }
   
